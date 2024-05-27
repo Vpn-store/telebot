@@ -16,8 +16,8 @@ REPO="https://raw.githubusercontent.com/vpn-store/telebot/main/bot/"
 NS=$( cat /etc/xray/dns )
 PUB=$( cat /etc/slowdns/server.pub )
 domain=$(cat /etc/xray/domain)
-bottoken="6909025595:AAFB-VCFxwadzdm2qJ5IQGpng69Unfou1Ww"
-admin="6980754113"
+bottoken="6493482036:AAFX77VwxibY9ord6Wggr_HGFndLPjCj4ls"
+admin="6010656563"
 
 clear
 cd /usr/bin
